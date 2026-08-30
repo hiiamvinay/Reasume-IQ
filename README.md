@@ -1,3 +1,15 @@
+
+## Status
+
+🚧 **Under Active Development**
+
+ResumeIQ is currently in development. Features, APIs,
+and architecture may change before the first stable release.
+
+The first stable release will be published as `v1.0.0`.
+
+_____________________________
+
 # ResumeIQ
 
 > AI-powered resume-to-job-description matching and optimization platform.
